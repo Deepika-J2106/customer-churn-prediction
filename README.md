@@ -160,4 +160,4 @@ Churners missed:  84  / 374 (22.5%)
 ## 🔗 Connect
 
 **[Your Name]**  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) · [your.email@gmail.com](mailto:your.email@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/deepika-jalamanchili/) · [GitHub](https://github.com/Deepika-J2106) · [your.email@gmail.com](mailto:deepikajalamanchili.9999@gmail.com)
