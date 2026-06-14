@@ -148,7 +148,15 @@ jupyter notebook
 - **Threshold tuning** had a bigger impact on business-relevant metrics than hyperparameter tuning did.
 
 ---
+Model:          Tuned Random Forest
+Threshold:      0.35
+AUC-ROC:        0.8243
+Precision:      0.498
+Recall:         0.775
+F1-Score:       0.607
 
+Churners caught:  290 / 374 (77.5%)
+Churners missed:  84  / 374 (22.5%)
 ## 🔗 Connect
 
 **[Your Name]**  
